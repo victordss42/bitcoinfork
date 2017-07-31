@@ -11,6 +11,13 @@
     <!--favIcon made by Maxim Basinski from www.flaticon.com-->
     <link rel="shortcut icon" href="img/favicon.ico">
   
+          <!-- Chrome on Android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="application-name" content="cripto.cash">
+        <link rel="icon" sizes="150x150" href="img/favicon.png">
+        <meta name="theme-color" content="#F05F40">
+
+  
     <title>Cripto Cash</title>
 
     <!-- Bootstrap Core CSS -->
