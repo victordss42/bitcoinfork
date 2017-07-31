@@ -91,7 +91,7 @@
                     <div class="service-box">
                         <img src="/img/vitao.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Victor Ferreira Silva</h3>
-                        <p class="text-muted">Criptoentusiasta, Investidor e Desenvolvedor de Software. Acredita que uma economia descentralizada tornará o mundo um lugar melhor</p>
+                        <p class="text-muted">Criptoentusiasta, Investidor e Desenvolvedor de Software. Acredita que uma economia descentralizada tornará o mundo um lugar melhor.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 text-center">
@@ -106,7 +106,7 @@
                     <div class="service-box">
                         <img src="/img/augusto_sitio.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Augusto Sitio</h3>
-                        <p class="text-muted">Empreendedor empirista e economista, escreveu um eBook sobre Bitcoin. Acredita que Blockchain não tem fronteiras. Seu avô era empreendedor, seu pai também e ele tenta seguir a mesma linha, sendo hoje fundador da Empoderoff</p>
+                        <p class="text-muted">Empreendedor empirista e economista, escreveu um eBook sobre Bitcoin. Acredita que Blockchain não tem fronteiras. Seu avô e seu pai eram empreendores, ele segue a mesma linha e é fundador da Empoderoff.</p>
                     </div>
                 </div>
             </div>
