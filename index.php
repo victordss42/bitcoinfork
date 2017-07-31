@@ -65,18 +65,17 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <header>
-        <div class="header-content">
+  <header>
+        <div class="header-content" >
             <div class="header-content-inner">
-                <h1 id="homeHeading">BITCOIN MEETUP: AFTER THE FORK</h1>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                 <hr>
-                <p  style="color: white">Evento com inovadores nomes da cena bitcoin Brasileira, com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
-                <!--<a href="#about" class="btn btn-primary btn-xl page-scroll">Descubra !!</a>-->
-                <a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>
+                <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll">Se junte a nós</a>
+                <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>-->
             </div>
         </div>
     </header>
-
+    
     <section id="palestrantes">
         <div class="container">
             <div class="row">
@@ -117,8 +116,10 @@
         <aside class="bg-dark" id="ingresso">
             <div class="container text-center">
                 <div class="call-to-action">
-                    <h2>Compre seu ingresso para este grande evento ! </h2>
-                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl sr-button">Comprar !</a>
+                    <h2 id="homeHeading">BITCOIN MEETUP: AFTER THE FORK</h2>
+                    <p  style="color: white">Evento com inovadores nomes da cena bitcoin Brasileira, com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
+                    <p style='color:white'>QUINTAL 1620 - Endereço: Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
+                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl sr-button">Se junte a nós !</a>
                 </div>
             </div>
         </aside>
