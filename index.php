@@ -140,7 +140,7 @@
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Nome</label>
-                            <input type="text" class="form-control" placeholder="Nome" id="nome" required data-validation-required-message="Preencha seu nome">
+                            <input type="text" class="form-control" placeholder="Nome" name="nome" id="nome" required data-validation-required-message="Preencha seu nome">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
