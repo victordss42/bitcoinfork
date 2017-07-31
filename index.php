@@ -114,7 +114,7 @@
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
-                         <img src="/img/ivan_amaro.jpg" class="img-circle" style="border:3px solid black;" alt="Cinque Terre" width="259" height="236"> 
+                         <img src="/img/ivan_amaro.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Ivan Amaro</h3>
                         <p class="text-muted">Entusiasta de IoT e cryptocurrencies, presta serviços de integração para ATM's e automação de operações. Atualmente integra o time de operações da <a href="https://foxbit.exchange/" style="font-weight: bold" target="_blank">Foxbit</a></p>
                     </div>
