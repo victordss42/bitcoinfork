@@ -125,9 +125,9 @@
         <aside class="bg-dark" id="ingresso">
             <div class="container text-center">
                 <div class="call-to-action">
-                    <h2 id="homeHeading">BITCOIN MEETUP: AFTER THE FORK</h2>
-                    <p  style="color: white">Evento com inovadores nomes da cena bitcoin Brasileira, com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
-                    <p style='color:white'>QUINTAL 1620 - Endereço: Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
+                    <h2 id="homeHeading">Bitcoin Meetup: After the Fork</h2>
+                  <p  style="color: white">Evento reune entusiastas e especialistas com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
+                    <p style='color:white'>QUINTAL 1620 | Próximo ao Metrô Sumaré <br> Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
                     <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl sr-button">Ingressos limitados</a>
                 </div>
             </div>
