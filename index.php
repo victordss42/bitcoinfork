@@ -6,9 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Evento especial reune entusiastas e especialistas logo após o 'fork' para discutir o futuro do bitcoin.">
     <meta name="author" content="">
-
+    <!--favIcon made by Maxim Basinski from www.flaticon.com-->
+    <link rel="shortcut icon" href="img/favicon.ico">
+  
     <title>Cripto Cash</title>
 
     <!-- Bootstrap Core CSS -->
