@@ -103,22 +103,30 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6 text-center">
+                <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <img src="/img/vitao.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Victor Ferreira Silva</h3>
                         <p class="text-muted">Criptoentusiasta, Investidor e Desenvolvedor de Software. Acredita que uma economia descentralizada tornará o mundo um lugar melhor.</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 text-center">
+                <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
                          <img src="/img/domenico_lerario.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Domenico Lerario</h3>
-                        <p class="text-muted">Fundador da <a href="https://econobit.com.br/" target="_blank">Econobit</a>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
+                        <p class="text-muted">Fundador da Econobit, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 text-center">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
+                         <img src="/img/ivan_amaro.jpg" class="img-circle" style="border:3px solid black;" alt="Cinque Terre" width="259" height="236"> 
+                        <h3>Ivan Amaro</h3>
+                        <p class="text-muted">Entusiasta de IoT e cryptocurrencies, presta serviços de integração para ATM's e automação de operações. Atualmente integra o time de operações da <a href="https://foxbit.exchange/" style="font-weight: bold" target="_blank">Foxbit</a></p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <img src="/img/augusto_sitio.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Augusto Sitio</h3>
