@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Cripto Moedas Brasil</title>
+    <title>Cripto Cash</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -70,7 +70,7 @@
             <div class="header-content-inner">
                 <h1 id="homeHeading">BITCOIN MEETUP: AFTER THE FORK</h1>
                 <hr>
-                <p>Evento com inovadores nomes da cena bitcoin Brasileira, com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
+                <p  style="color: white">Evento com inovadores nomes da cena bitcoin Brasileira, com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
                 <!--<a href="#about" class="btn btn-primary btn-xl page-scroll">Descubra !!</a>-->
                 <a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>
             </div>
@@ -81,155 +81,39 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">ESPECIALISTAS</h2>
+                    <h2 class="section-heading">PALESTRANTES</h2>
                     <hr class="primary">
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
-                        <img src="/img/cassio_3x4_2.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
-                        <h3>Primeiro</h3>
-                        <p class="text-muted">Especialis blablabala</p>
+                        <img src="/img/vitao.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
+                        <h3>Victor Ferreira Silva</h3>
+                        <p class="text-muted">Criptoentusiasta, Investidor e Desenvolvedor de Software. Acredita que uma economia descentralizada tornará o mundo um lugar melhor</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
-                         <img src="/img/cassio_3x4_2.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
-                        <h3>Primeiro</h3>
-                        <p class="text-muted">Especialis blablabala</p>
+                         <img src="/img/domenico_lerario.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
+                        <h3>Domenico Lerario</h3>
+                        <p class="text-muted">Fundador da <href="https://econobit.com.br/">Econobit</href>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-6 text-center">
                     <div class="service-box">
-                        <img src="/img/cassio_3x4_2.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
-                        <h3>Primeiro</h3>
-                        <p class="text-muted">Especialis blablabala</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <img src="/img/cassio_3x4_2.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
-                        <h3>Primeiro</h3>
-                        <p class="text-muted">Especialis blablabala</p>
+                        <img src="/img/augusto_sitio.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
+                        <h3>Augusto Sitio</h3>
+                        <p class="text-muted">Empreendedor empirista e economista, escreveu um eBook sobre Bitcoin. Acredita que Blockchain não tem fronteiras. Seu avô era empreendedor, seu pai também e ele tenta seguir a mesma linha, sendo hoje fundador da Empoderoff</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     
-    <!--<section class="bg-primary" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">O que você precisa saber ?</h2>
-                    <hr class="light">
-                    <p class="text-faded">Venha entender mais desse evento que dividirá a moeda !!!</p>
-                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>
-                </div>
-            </div>
-        </div>
-    </section>-->
-
-    <!--<section class="no-padding" id="portfolio">
-        <div class="container-fluid">
-            <div class="row no-gutter popup-gallery">
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/1.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/2.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/3.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/4.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/5.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/6.jpg" class="portfolio-box">
-                        <img src="img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>-->
         <aside class="bg-dark" id="ingresso">
             <div class="container text-center">
                 <div class="call-to-action">
@@ -245,7 +129,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">CONTATO</h2>
+                    <h2 class="section-heading">FAÇA SEU CADASTRO </h2>
                     <hr class="primary">
                 </div>
             </div>
