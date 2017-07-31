@@ -155,9 +155,19 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
   text-align: center;
   color: white;
+  min-height: 100%;
+}
+@media only screen and (min-width: 769px) { 
+  header {
+  background-image: url('../img/header.jpg');
+  }
+}
+@media only screen and (max-width: 768px) { 
+  header {
+  background-image: url('../img/header_alternas.jpg');
+  }
 }
 header .header-content {
   position: relative;
@@ -182,9 +192,7 @@ header .header-content .header-content-inner p {
   margin-bottom: 50px;
 }
 @media (min-width: 768px) {
-  header {
-    min-height: 100%;
-  }
+
   header .header-content {
     position: absolute;
     top: 50%;
