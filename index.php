@@ -80,7 +80,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">PALESTRANTES</h2>
+                    <h2 class="section-heading">CONHEÇA OS PALESTRANTES</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -99,7 +99,7 @@
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
                          <img src="/img/domenico_lerario.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Domenico Lerario</h3>
-                        <p class="text-muted">Fundador da <href="https://econobit.com.br/">Econobit</href>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
+                        <p class="text-muted">Fundador da <a href="https://econobit.com.br/" target="_blank">Econobit</href>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 text-center">
