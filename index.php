@@ -78,6 +78,7 @@
         <div class="header-content" >
             <div class="header-content-inner">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                 <hr>
                 <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>
                 <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>-->
