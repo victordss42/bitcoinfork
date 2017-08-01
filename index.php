@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt">
 
-< ?php
+<?php
 
 function redirectTohttps() {
 
