@@ -78,16 +78,16 @@
     </nav>
 
   <header>
-    <div class="d-flex header-content" >
+        <div class="d-flex header-content" >
           <div class="header-content-inner ">
             <div class="align-self-bottom first-btn-group">
               <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl page-scroll">Ingressos via Sympla</a>
               <a class="typeform-share button btn btn-primary btn-xl page-scroll" href="https://criptocash.typeform.com/to/a34653" data-mode="popup" style="" data-hide-headers=true data-hide-footer=true target="_blank">Compre com Bitcoins</a>
+            </div>
             <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
           </div>
                 <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas                 <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>!</a>-->
         </div>
-    </div>
   </header>
     
     <section id="palestrantes">
@@ -122,15 +122,6 @@
                          <img src="./img/ivan_amaro.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Ivan Amaro</h3>
                         <p class="text-muted">Entusiasta de IoT e cryptocurrencies, presta serviços de integração para ATM's e automação de operações. Atualmente integra o time de operações da <a href="https://foxbit.exchange/" style="font-weight: bold" target="_blank">Foxbit</a></p>
-                        <p class="text-muted">Fundador da <a href="https://econobit.com.br/" target="_blank">Econobit</a>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
-                         <img src="/img/ivan_amaro.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
-                        <h3>Ivan Amaro</h3>
-                        <p class="text-muted">Entusiasta de IoT e cryptocurrencies, presta serviços de integração para ATM's e automação de operações. Atualmente integra o time de operações da <a href="https://foxbit.exchange/" style="font-weight: bold" target="_blank">Foxbit</a></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -156,7 +147,6 @@
                 </div>
                   <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
             </div>
-          </div>
         </aside>
 
     <section id="contacto">

@@ -78,16 +78,33 @@
     </nav>
 
   <header>
-    <div class="d-flex header-content" >
+<<<<<<< HEAD
+        <div class="d-flex header-content" >
           <div class="header-content-inner ">
             <div class="align-self-bottom first-btn-group">
               <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl page-scroll">Ingressos via Sympla</a>
               <a class="typeform-share button btn btn-primary btn-xl page-scroll" href="https://criptocash.typeform.com/to/a34653" data-mode="popup" style="" data-hide-headers=true data-hide-footer=true target="_blank">Compre com Bitcoins</a>
+||||||| merged common ancestors
+        <div class="header-content" >
+            <div class="header-content-inner">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <hr>
+                <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>
+                <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>-->
+=======
+        <div class="header-content" >
+            <div class="header-content-inner">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <hr>
+                <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>
+                <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>-->
+>>>>>>> e267fbfc6ed87eaf4e7869699312a66b0d415c41
+            </div>
             <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
           </div>
                 <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas                 <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>!</a>-->
         </div>
-    </div>
   </header>
     
     <section id="palestrantes">
@@ -113,6 +130,7 @@
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
                          <img src="./img/domenico_lerario.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Domenico Lerario</h3>
+<<<<<<< HEAD
                         <p class="text-muted">Fundador da Econobit, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
                     </div>
                 </div>
@@ -122,9 +140,18 @@
                          <img src="./img/ivan_amaro.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Ivan Amaro</h3>
                         <p class="text-muted">Entusiasta de IoT e cryptocurrencies, presta serviços de integração para ATM's e automação de operações. Atualmente integra o time de operações da <a href="https://foxbit.exchange/" style="font-weight: bold" target="_blank">Foxbit</a></p>
+||||||| merged common ancestors
                         <p class="text-muted">Fundador da <a href="https://econobit.com.br/" target="_blank">Econobit</a>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
+=======
+                        <p class="text-muted">Fundador da Econobit, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
+>>>>>>> e267fbfc6ed87eaf4e7869699312a66b0d415c41
                     </div>
                 </div>
+<<<<<<< HEAD
+                <div class="col-lg-3 col-md-6 text-center">
+||||||| merged common ancestors
+                <div class="col-lg-4 col-md-6 text-center">
+=======
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
@@ -134,6 +161,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
+>>>>>>> e267fbfc6ed87eaf4e7869699312a66b0d415c41
                     <div class="service-box">
                         <img src="./img/augusto_sitio.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Augusto Sitio</h3>
@@ -156,7 +184,6 @@
                 </div>
                   <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
             </div>
-          </div>
         </aside>
 
     <section id="contacto">

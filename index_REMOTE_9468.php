@@ -23,7 +23,6 @@
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -34,8 +33,6 @@
 
     <!-- Theme CSS -->
     <link href="css/creative.min.css" rel="stylesheet">
-    <link href="css/creative.css" rel="stylesheet">
-
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -78,17 +75,16 @@
     </nav>
 
   <header>
-    <div class="d-flex header-content" >
-          <div class="header-content-inner ">
-            <div class="align-self-bottom first-btn-group">
-              <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl page-scroll">Ingressos via Sympla</a>
-              <a class="typeform-share button btn btn-primary btn-xl page-scroll" href="https://criptocash.typeform.com/to/a34653" data-mode="popup" style="" data-hide-headers=true data-hide-footer=true target="_blank">Compre com Bitcoins</a>
-            <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
-          </div>
-                <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas                 <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>!</a>-->
+        <div class="header-content" >
+            <div class="header-content-inner">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <hr>
+                <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>
+                <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>-->
+            </div>
         </div>
-    </div>
-  </header>
+    </header>
     
     <section id="palestrantes">
         <div class="container">
@@ -103,7 +99,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <img src="./img/vitao.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
+                        <img src="/img/vitao.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Victor Ferreira Silva</h3>
                         <p class="text-muted">Criptoentusiasta, Investidor e Desenvolvedor de Software. Acredita que uma economia descentralizada tornará o mundo um lugar melhor.</p>
                     </div>
@@ -111,18 +107,9 @@
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
-                         <img src="./img/domenico_lerario.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
+                         <img src="/img/domenico_lerario.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Domenico Lerario</h3>
                         <p class="text-muted">Fundador da Econobit, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
-                         <img src="./img/ivan_amaro.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
-                        <h3>Ivan Amaro</h3>
-                        <p class="text-muted">Entusiasta de IoT e cryptocurrencies, presta serviços de integração para ATM's e automação de operações. Atualmente integra o time de operações da <a href="https://foxbit.exchange/" style="font-weight: bold" target="_blank">Foxbit</a></p>
-                        <p class="text-muted">Fundador da <a href="https://econobit.com.br/" target="_blank">Econobit</a>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -135,7 +122,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <img src="./img/augusto_sitio.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
+                        <img src="/img/augusto_sitio.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Augusto Sitio</h3>
                         <p class="text-muted">Empreendedor empirista e economista, escreveu um eBook sobre Bitcoin. Acredita que Blockchain não tem fronteiras. Seu avô e seu pai eram empreendores, ele segue a mesma linha e é fundador da Empoderoff.</p>
                     </div>
@@ -148,15 +135,11 @@
             <div class="container text-center">
                 <div class="call-to-action">
                     <h2 id="homeHeading">Bitcoin Meetup: After the Fork</h2>
-                  <p  style="color: white">Evento reune entusiastas e especialistas com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.<br> Não perca a oportunidade de tomar uma cerveja com os palestrantes ao fim do evento.</p>
+                  <p  style="color: white">Evento reune entusiastas e especialistas com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
                     <p style='color:white'>QUINTAL 1620 | Próximo ao Metrô Sumaré <br> Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
-                  <div class="">
-                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl sr-button">Ingressos via Sympla</a>
-                    <a class="typeform-share button btn btn-primary btn-xl sr-button" href="https://criptocash.typeform.com/to/a34653" data-mode="popup" style="" data-hide-headers=true data-hide-footer=true target="_blank">Compre com Bitcoins </a>
+                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl sr-button">Ingressos limitados</a>
                 </div>
-                  <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
             </div>
-          </div>
         </aside>
 
     <section id="contacto">
@@ -165,7 +148,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Fale com a gente.</h2>
+                    <h2 class="section-heading">ENTRE EM CONTATO</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -197,7 +180,6 @@
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Mensagem</label>
-                            <small>Caso queira comprar mais de um ingresso informe o noem completo dos demais participantes abaixo um por linha.</small>
                             <textarea rows="5" class="form-control" placeholder="Mensagem" id="mensagem" name="mensagem" ></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
@@ -206,7 +188,7 @@
                     <div id="success"></div>
                     <div class="row">
                         <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-primary">Proceder com a compra</button>
+                            <button type="submit" class="btn btn-default">Enviar</button>
                         </div>
                     </div>
                 </form>
