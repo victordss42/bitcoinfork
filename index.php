@@ -79,8 +79,15 @@
             <div class="header-content-inner">
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
                 <hr>
-                <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>
-                <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas !</a>-->
+
+                <div class="btn-group">
+                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl page-scroll">Ingressos via Sympla</a>
+                    <a class="typeform-share button btn btn-primary btn-xl page-scroll" href="https://criptocash.typeform.com/to/a34653" data-mode="popup" style="" data-hide-headers=true data-hide-footer=true target="_blank">Compre com Bitcoins </a>
+                </div>
+                  <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+            </div>
+
+                <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas                 <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>!</a>-->
             </div>
         </div>
     </header>
@@ -128,8 +135,11 @@
                     <h2 id="homeHeading">Bitcoin Meetup: After the Fork</h2>
                   <p  style="color: white">Evento reune entusiastas e especialistas com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.</p>
                     <p style='color:white'>QUINTAL 1620 | Próximo ao Metrô Sumaré <br> Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
-                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl sr-button">Ingressos limitados</a>
+                  <div class="btn-group">
+                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl sr-button">Ingressos via Sympla</a>
+                    <a class="typeform-share button btn btn-primary btn-xl sr-button" href="https://criptocash.typeform.com/to/a34653" data-mode="popup" style="" data-hide-headers=true data-hide-footer=true target="_blank">Compre com Bitcoins </a>
                 </div>
+                  <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
             </div>
         </aside>
 
@@ -139,7 +149,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">ENTRE EM CONTATO</h2>
+                    <h2 class="section-heading">COMPRE COM BITCOINS</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -171,6 +181,7 @@
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Mensagem</label>
+                            <small>Caso queira comprar mais de um ingresso informe o noem completo dos demais participantes abaixo um por linha.</small>
                             <textarea rows="5" class="form-control" placeholder="Mensagem" id="mensagem" name="mensagem" ></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
@@ -179,7 +190,7 @@
                     <div id="success"></div>
                     <div class="row">
                         <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-default">Enviar</button>
+                            <button type="submit" class="btn btn-primary">Proceder com a compra</button>
                         </div>
                     </div>
                 </form>
