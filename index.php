@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt">
 
-<?php
-
-function redirectTohttps() {
-
-if($_SERVER[‘HTTPS’]!=”on”) {
-
-$redirect= "https://".$_SERVER[‘REQUEST_URI’];
-
-header(“Location:$redirect”); } }
-
-?>
-
 <head>
     
   
