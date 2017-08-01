@@ -149,7 +149,8 @@ aside {
 header {
   position: relative;
   width: 100%;
-  min-height: auto;
+  min-height: 100vh;
+  max-height: 100vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -165,9 +166,7 @@ header {
   }
 }
 @media only screen and (max-width: 768px) { 
-  header {
-  background-image: url('../img/header_alternas.jpg');
-  }
+
 }
 header .header-content {
   position: relative;
@@ -421,4 +420,8 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+
+.first-btn-group {
+  margin-top: 77vh;
 }
