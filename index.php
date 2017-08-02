@@ -42,8 +42,8 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Bitcoin Meetup São Paulo | HOJE 02 de Agosto" />
     <meta property="og:description" content="Entusiastas e especialistas se reúnem para debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor." />
-    <meta property="og:image" content="img/cutmypic.png" />
-    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image" content="img/og-img.jpg" />
+    <meta property="og:image:type" content="image/jpg" />
     <meta property="og:image:width" content="302" />
     <meta property="og:image:height" content="170" />
 
