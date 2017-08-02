@@ -140,9 +140,10 @@
                 <div class="call-to-action">
                     <h2 id="homeHeading">Bitcoin Meetup: After the Fork</h2>
                   <p  style="color: white">Evento reune entusiastas e especialistas com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.<br> Não perca a oportunidade de tomar uma cerveja com os palestrantes ao fim do evento.</p>
+                    <h3>HOJE - 02 de Agosto às 19h</h3>
                     <p style='color:white'>QUINTAL 1620 | Próximo ao Metrô Sumaré <br> Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
                   <div class="">
-                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl sr-button">Ingressos via Sympla</a>
+                    <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-primary btn-xl sr-button">Ingressos limitados</a>
                 </div>
                   <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
             </div>
