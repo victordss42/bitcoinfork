@@ -114,7 +114,7 @@
                         <!--<i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>-->
                          <img src="./img/domenico_lerario.jpg" class="img-circle" alt="Cinque Terre" width="259" height="236"> 
                         <h3>Domenico Lerario</h3>
-                        <p class="text-muted">Fundador da Econobit, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
+                        <p class="text-muted">Fundador da <a href="https://econobit.com.br" target="_blank">Econobit</a>, que oferece soluções para comerciantes e consumidores tornarem suas transações financeiras com a moeda digital Bitcoin mais simples e seguras.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -189,7 +189,7 @@
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Mensagem</label>
-                            <small>Caso queira comprar mais de um ingresso informe o noem completo dos demais participantes abaixo um por linha.</small>
+>
                             <textarea rows="5" class="form-control" placeholder="Mensagem" id="mensagem" name="mensagem" ></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
@@ -198,7 +198,7 @@
                     <div id="success"></div>
                     <div class="row">
                         <div class="form-group col-xs-12">
-                            <button type="submit" class="btn btn-primary">Proceder com a compra</button>
+                            <button type="submit" class="btn btn-primary">ENVIAR</button>
                         </div>
                     </div>
                 </form>
