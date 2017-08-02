@@ -76,10 +76,10 @@
     ga('send', 'pageview');
   </script>
 
-  <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
+  <nav id="mainNav" class=" lala navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid" >
       <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
+      <div class="navbar-header" >
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
           <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
         </button>
@@ -109,26 +109,8 @@
     <div class="d-flex header-content">
       <div class="header-content-inner ">
         <div class="align-self-bottom first-btn-group">
-          <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-default btn-xl page-scroll">Garanta sua vaga</a>
-          <script>
-            (function() {
-              var qs, js, q, s, d = document,
-                gi = d.getElementById,
-                ce = d.createElement,
-                gt = d.getElementsByTagName,
-                id = "typef_orm_share",
-                b = "https://embed.typeform.com/";
-              if (!gi.call(d, id)) {
-                js = ce.call(d, "script");
-                js.id = id;
-                js.src = b + "embed.js";
-                q = gt.call(d, "script")[0];
-                q.parentNode.insertBefore(js, q)
-              }
-            })()
-          </script>
+          <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-primary btn-xl page-scroll">Garanta sua vaga</a>
         </div>
-        <!--<a href="#palestrantes" class="page-scroll btn btn-default btn-xl sr-button">Especialistas                 <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" class="btn btn-default btn-xl page-scroll" target="_blank">Garanta seu ingresso</a>!</a>-->
       </div>
     </div>
   </header>
@@ -178,18 +160,28 @@
     </div>
   </section>
 
+  <aside class="bg-dark" id="">
+    <div class="container text-center">
+      <div class="call-to-action">
+
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/VDE0qdUmZQE" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </aside>
   <aside class="bg-dark" id="ingresso">
     <div class="container text-center">
       <div class="call-to-action">
         <h2 id="homeHeading">Bitcoin Meetup: After the Fork</h2>
         <p style="color: white">Evento reune entusiastas e especialistas com debates e palestras sobre o futuro do bitcoin pós 1º de Agosto e o que isso significa para o investidor.
           <br> Não perca a oportunidade de tomar uma cerveja com os palestrantes ao fim do evento.</p>
-        <h3>HOJE - 02 de Agosto às 19h</h3>
-        <p style='color:white'>QUINTAL 1620 | Próximo ao Metrô Sumaré
-          <br> Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
         <div class="">
           <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-primary btn-xl sr-button">Ingressos limitados</a>
         </div>
+        <h3>HOJE - 02 de Agosto às 19h</h3>
+        <p style='color:white'>QUINTAL 1620 | Próximo ao Metrô Sumaré
+          <br> Av. Doutor Arnaldo, 1620 - Sumaré - São paulo, SP</p>
         <script>
           (function() {
             var qs, js, q, s, d = document,
@@ -207,19 +199,6 @@
             }
           })()
         </script>
-      </div>
-    </div>
-  </aside>
-  <aside class="bg-dark" id="ingresso">
-    <div class="container text-center">
-      <div class="call-to-action">
-
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/VDE0qdUmZQE" frameborder="0" allowfullscreen></iframe>
-        </div>
-        <br>
-        <br>
-        <a href="https://www.sympla.com.br/bitcoin-meetup-after-the-fork__171479" target="_blank" class="btn btn-primary btn-xl sr-button">Quero meu ingresso</a>
       </div>
     </div>
   </aside>

@@ -159,14 +159,20 @@ header {
   text-align: center;
   color: white;
   min-height: 100%;
+      background-color: #1A2543 !important;
 }
 @media only screen and (min-width: 769px) { 
   header {
   background-image: url('../img/header.jpg');
   }
+  
+  body{
+  }
 }
 @media only screen and (max-width: 768px) { 
-
+  header{
+     margin-top: 50px;
+  }
 }
 header .header-content {
   position: relative;
@@ -422,6 +428,14 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
+
+
 .first-btn-group {
-  margin-top: 77vh;
+  margin-top: 75vh;
 }
+
+#ingresso {
+  margin-top: -3em;
+}
+
+
